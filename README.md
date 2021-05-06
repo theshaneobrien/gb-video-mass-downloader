@@ -22,7 +22,7 @@ In command line:
 Happy to take pull requests =D
 
 
-##Known issue:
+## Known issue:
 
 Some videos on Giant Bomb return a "403 Forbidden" error, I haven't added any error checking to catch this.
 
