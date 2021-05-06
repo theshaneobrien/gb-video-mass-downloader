@@ -30,4 +30,4 @@ The app will close when this is encountered.
 
 To fix it you can download the offending video off the website (it seems the API has the wrong video url stored?)
 
-You must then open archiveProgress.json in your favorite text editor and add 1 to the value of "currentOffset" and start the program again... easy, right?
+You must then open archivalProgress.json in your favorite text editor and add 1 to the value of "currentOffset" and start the program again... easy, right?
